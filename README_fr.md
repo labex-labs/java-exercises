@@ -257,19 +257,9 @@ Entraînez-vous en programmation Java grâce à plus de 200 défis de codage pra
 |     238 | 🎯  Écrire des objets dans un fichier                     | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/java-writing-objects-to-file-197775'>Commencer le Défi</a>                                       |
 |     239 | 🎯  Yin et Yang                                           | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/java-yin-and-yang-266730'>Commencer le Défi</a>                                                  |
 
-## Environnement
+## À propos de LabEx
 
-LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- Une approche stricte "Apprendre en Faisant" avec des laboratoires pratiques exclusifs et sans vidéos.
-- Des environnements en ligne interactifs dans le navigateur, avec des vérifications automatisées étape par étape.
-- Une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences.
-- Une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires.
-- L'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
-
-En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo. Avec une approche stricte 'Apprendre en Faisant', des environnements en ligne interactifs dans le navigateur avec des vérifications automatisées étape par étape, une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences, et une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires, LabEx offre une éducation pratique complète. La plateforme comprend l'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
 
 ## Plus
 
